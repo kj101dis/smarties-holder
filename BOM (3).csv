@@ -1,0 +1,5 @@
+Part,Type,Quantity,Unit price (USD),Line total (USD),Link,Vendor,Funding,Notes
+housing and top,3D printed,1,8.00,8.00,https://hackclub.slack.com/archives/D0CDJBVDQSX/p1795718615799919,printing legion,Grant,
+pararcord,Part,1,6.00,6.00,https://www.amazon.com/Teceum-Paracord-Type-III-Black/dp/B094DJRMCS?th=1,amazon,Grant,
+smarties,Part,1,4.00,4.00,https://www.target.com/p/smarties-assorted-flavors-candy-rolls-18oz/-/A-12942308?sid=1886S&TCID=PDS-19859757808&gclsrc=aw.ds&gad_source=1&gad_campaignid=19859757808&gbraid=0AAAAAD-5dfb0mPCpjyeY2vw6s_VxWdB0K&gclid=CjwKCAiAzp_YBhAJEiwASf8kHRihNDeZW2id8szKXV2C9GJVztFyQ7ivk3nsxt1AnQZfbQypmRURxBoC2nsQAvD_BwE,target,Grant,
+Total,,,,18.00,,,,
